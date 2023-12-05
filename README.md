@@ -14,6 +14,6 @@ Este proyecto es una landing page inspirada en la marca Nike, desarrollada con H
 - Vite: Build optimizer
 - Git & Github: Version Control
 - Vercel: Hosting
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
