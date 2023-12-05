@@ -17,6 +17,6 @@ Este proyecto es una landing page inspirada en la marca Nike, desarrollada con H
 # Nombre de Tu Proyecto
 
 [[![REACT](https://img.shields.io/badge/React-16.x-blue.svg)](https://reactjs.org/)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[[![TAILWIND CSS](https://img.shields.io/badge/Tailwind%20CSS-2.x-38B2AC.svg)](https://tailwindcss.com/)](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[[![TAILWIND CSS](https://img.shields.io/badge/Tailwind%20CSS-2.x-38B2AC.svg)](https://tailwindcss.com/)]
 
 
