@@ -7,3 +7,10 @@ Este proyecto es una landing page inspirada en la marca Nike, desarrollada con H
 ### Integración de la paleta de colores de Nike.
 ### Secciones interactivas y responsive.
 ### Uso de Tailwind CSS para una estilización eficiente y rápida.
+
+## Tech Stack Used
+### React: Frontend Development
+### TailwindCSS: Styling
+### Vite: Build optimizer
+### Git & Github: Version Control
+### Vercel: Hosting
