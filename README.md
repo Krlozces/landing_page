@@ -22,6 +22,6 @@ Este proyecto es una landing page inspirada en la marca Nike, desarrollada con H
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-##URL
+## URL
 https://nike-page.netlify.app/
 
